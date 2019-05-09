@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/darwintnt/check_wheather/static/css/main.6c41e933.chunk.css",
-    "main.js": "/darwintnt/check_wheather/static/js/main.e8f44fda.chunk.js",
-    "main.js.map": "/darwintnt/check_wheather/static/js/main.e8f44fda.chunk.js.map",
-    "runtime~main.js": "/darwintnt/check_wheather/static/js/runtime~main.d46e1863.js",
-    "runtime~main.js.map": "/darwintnt/check_wheather/static/js/runtime~main.d46e1863.js.map",
-    "static/css/2.88d472db.chunk.css": "/darwintnt/check_wheather/static/css/2.88d472db.chunk.css",
-    "static/js/2.72f83296.chunk.js": "/darwintnt/check_wheather/static/js/2.72f83296.chunk.js",
-    "static/js/2.72f83296.chunk.js.map": "/darwintnt/check_wheather/static/js/2.72f83296.chunk.js.map",
-    "index.html": "/darwintnt/check_wheather/index.html",
-    "precache-manifest.3d86d72a7a4c3ad580c841a442bae2c8.js": "/darwintnt/check_wheather/precache-manifest.3d86d72a7a4c3ad580c841a442bae2c8.js",
-    "service-worker.js": "/darwintnt/check_wheather/service-worker.js",
-    "static/css/2.88d472db.chunk.css.map": "/darwintnt/check_wheather/static/css/2.88d472db.chunk.css.map",
-    "static/css/main.6c41e933.chunk.css.map": "/darwintnt/check_wheather/static/css/main.6c41e933.chunk.css.map"
+    "main.css": "/check_wheather/static/css/main.6c41e933.chunk.css",
+    "main.js": "/check_wheather/static/js/main.e8f44fda.chunk.js",
+    "main.js.map": "/check_wheather/static/js/main.e8f44fda.chunk.js.map",
+    "runtime~main.js": "/check_wheather/static/js/runtime~main.d46e1863.js",
+    "runtime~main.js.map": "/check_wheather/static/js/runtime~main.d46e1863.js.map",
+    "static/css/2.88d472db.chunk.css": "/check_wheather/static/css/2.88d472db.chunk.css",
+    "static/js/2.72f83296.chunk.js": "/check_wheather/static/js/2.72f83296.chunk.js",
+    "static/js/2.72f83296.chunk.js.map": "/check_wheather/static/js/2.72f83296.chunk.js.map",
+    "index.html": "/check_wheather/index.html",
+    "precache-manifest.3d86d72a7a4c3ad580c841a442bae2c8.js": "/check_wheather/precache-manifest.3d86d72a7a4c3ad580c841a442bae2c8.js",
+    "service-worker.js": "/check_wheather/service-worker.js",
+    "static/css/2.88d472db.chunk.css.map": "/check_wheather/static/css/2.88d472db.chunk.css.map",
+    "static/css/main.6c41e933.chunk.css.map": "/check_wheather/static/css/main.6c41e933.chunk.css.map"
   }
 }
