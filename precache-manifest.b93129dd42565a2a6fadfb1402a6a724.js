@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83be8c0c5301112432f5708f2c63efbc",
+    "revision": "82d532ebd30d3c2615d5085651acd77e",
     "url": "/check_wheather/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/check_wheather/static/css/2.88d472db.chunk.css"
   },
   {
-    "revision": "779312586ab99260dcfb",
+    "revision": "d6a192835299959ba24b",
     "url": "/check_wheather/static/css/main.6c41e933.chunk.css"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/check_wheather/static/js/2.72f83296.chunk.js"
   },
   {
-    "revision": "779312586ab99260dcfb",
-    "url": "/check_wheather/static/js/main.e8f44fda.chunk.js"
+    "revision": "d6a192835299959ba24b",
+    "url": "/check_wheather/static/js/main.46cb3437.chunk.js"
   },
   {
-    "revision": "32bea73e028025324d41",
-    "url": "/check_wheather/static/js/runtime~main.d46e1863.js"
+    "revision": "fd27cc4973e91be00a16",
+    "url": "/check_wheather/static/js/runtime~main.0e58687a.js"
   }
 ]);
